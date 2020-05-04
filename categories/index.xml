@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Parsa Hugo | Personal Blog Template</title>
-    <link>https://ianjustin39.github.io/bei-blog/categories/</link>
+    <link>https://hazelliu.github.io/blog/categories/</link>
     <description>Recent content in Categories on Parsa Hugo | Personal Blog Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="https://ianjustin39.github.io/bei-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hazelliu.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Article</title>
-      <link>https://ianjustin39.github.io/bei-blog/categories/article/</link>
+      <link>https://hazelliu.github.io/blog/categories/article/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://ianjustin39.github.io/bei-blog/categories/article/</guid>
+      <guid>https://hazelliu.github.io/blog/categories/article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fashion</title>
-      <link>https://ianjustin39.github.io/bei-blog/categories/fashion/</link>
+      <link>https://hazelliu.github.io/blog/categories/fashion/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://ianjustin39.github.io/bei-blog/categories/fashion/</guid>
+      <guid>https://hazelliu.github.io/blog/categories/fashion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>https://ianjustin39.github.io/bei-blog/categories/food/</link>
+      <link>https://hazelliu.github.io/blog/categories/food/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://ianjustin39.github.io/bei-blog/categories/food/</guid>
+      <guid>https://hazelliu.github.io/blog/categories/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nature</title>
-      <link>https://ianjustin39.github.io/bei-blog/categories/nature/</link>
+      <link>https://hazelliu.github.io/blog/categories/nature/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://ianjustin39.github.io/bei-blog/categories/nature/</guid>
+      <guid>https://hazelliu.github.io/blog/categories/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>https://ianjustin39.github.io/bei-blog/categories/philosophy/</link>
+      <link>https://hazelliu.github.io/blog/categories/philosophy/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://ianjustin39.github.io/bei-blog/categories/philosophy/</guid>
+      <guid>https://hazelliu.github.io/blog/categories/philosophy/</guid>
       <description></description>
     </item>
     
